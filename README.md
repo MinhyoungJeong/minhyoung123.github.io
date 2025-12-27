@@ -31,7 +31,7 @@ Python · FastAPI · ChromaDB · SentenceTransformers · Ollama
 
 🔗 Repo / API examples included
 
-📌 BeVillage – Vegan Community & Challenge App (In Progress)
+📌 VeVillage – Vegan Community & Challenge App (In Progress)
 
 Service-oriented application for vegan challenges & community engagement
 
