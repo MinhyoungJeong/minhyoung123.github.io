@@ -1,4 +1,4 @@
-👋 Hi, I'm an AI Engineering Student
+Hi, I'm an AI Engineering Student
 
 AI Engineering student building practical AI systems and service-oriented applications
 
